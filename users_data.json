@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@addenergy.com",
+    "role": "admin",
+    "profile_pic_url": "images/landing/placeholder-person.png",
+    "manages": [
+      {
+        "id": "2",
+        "name": "Scott Albion",
+        "email": "scott.albion@addenergy.com",
+        "role": "manager",
+        "profile_pic_url": "images/landing/placeholder-person.png",
+        "manages": [
+
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Bob Hoy",
+        "email": "bobby.hoy@addenergy.com",
+        "role": "editor",
+        "profile_pic_url": "images/landing/placeholder-person.png",
+        "manages": [
+          {
+            "id": "4",
+            "name": "Will Levinsson",
+            "email": "will.levinsson@addenergy.com",
+            "role": "editor",
+            "profile_pic_url": "images/landing/placeholder-person.png",
+            "manages": [
+
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "James Mulligan",
+    "email": "james.mulligan@addenergy.com",
+    "role": "commentator",
+    "profile_pic_url": "images/landing/placeholder-person.png",
+    "manages": [
+
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Ralph James",
+    "email": "ralphie.james@addenergy.com",
+    "role": "viewer",
+    "profile_pic_url": "images/landing/placeholder-person.png",
+    "manages": [
+
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Jane Clarks",
+    "email": "j.clarks@addenergy.com",
+    "role": "viewer",
+    "profile_pic_url": "images/landing/placeholder-person.png",
+    "manages": [
+
+    ]
+  }
+]

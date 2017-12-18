@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "1",
+    "name": "admin",
+    "description": "Super user, can manage other users and permissions.",
+    "permissions": ["manage", "approve", "edit", "view", "comment"]
+  },
+  {
+    "id": "2",
+    "name": "manager",
+    "description": "Allowed to suggest, make changes and QA and approve actions",
+    "permissions": ["approve", "edit", "view", "comment"]
+  },
+  {
+    "id": "3",
+    "name": "editor",
+    "description": "Allowed to suggest, make changes and QA",
+    "permissions": ["edit", "view", "comment"]
+  },
+  {
+    "id": "4",
+    "name": "commentator",
+    "description": "Can view the data, but cannot make any changes other than reporting/flagging and commenting.",
+    "permissions": ["view", "comment"]
+  },
+  {
+    "id": "5",
+    "name": "viewer",
+    "description": "Can only view the data, and is unable to report/flag or comment.",
+    "permissions": ["view"]
+  }
+]

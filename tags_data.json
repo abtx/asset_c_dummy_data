@@ -1,0 +1,1699 @@
+[
+  {
+    "id": 1,
+    "parent_id": null,
+    "props": [
+      {
+        "key": "name",
+        "label": "name",
+        "value": "ID80-ID80-TLSE"
+      },
+      {
+        "key": "system",
+        "label": "system",
+        "value": "system A"
+      },
+      {
+        "key": "site",
+        "label": "site",
+        "value": "site 1"
+      },
+      {
+        "key": "level",
+        "label": "level",
+        "value": "1"
+      },
+      {
+        "key": "tag_type",
+        "label": "tag type",
+        "value": "a type"
+      },
+      {
+        "key": "description",
+        "label": "description",
+        "value": "PIPELINE, TOPSIDE"
+      },
+      {
+        "key": "floc",
+        "label": "functional location",
+        "value": "ID80-020-BP-OLS-PEI-XII-11"
+      },
+      {
+        "key": "pm_plant",
+        "label": "PM Plant",
+        "value": "ID01"
+      },
+      {
+        "key": "status",
+        "label": "system status",
+        "value": "CRTE"
+      },
+      {
+        "key": "planner_group",
+        "label": "planner group",
+        "value": "IMP"
+      },
+      {
+        "key": "short_desc",
+        "label": "short description",
+        "value": "PTLM"
+      },
+      {
+        "key": "eq_type",
+        "label": "equipment type",
+        "value": "transmitter"
+      },
+      {
+        "key": "discipline",
+        "label": "discipline",
+        "value": "instrument"
+      },
+      {
+        "key": "criticality",
+        "label": "criticality",
+        "value": "low"
+      },
+      {
+        "key": "craft",
+        "label": "craft",
+        "value": "a craft"
+      },
+      {
+        "key": "parent_craft",
+        "label": "parent craft",
+        "value": "a parent craft"
+      },
+      {
+        "key": "pid",
+        "label": "piping and instrumentation diagram",
+        "value": "http://via.placeholder.com/350x150"
+      }
+    ],
+    "flags": [
+      {
+        "_id": "OV90i",
+        "name": "Flag A",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "date": "11/10/2017",
+        "author": "user"
+      },
+      {
+        "_id": "bcDSB",
+        "name": "Flag B",
+        "comment": "",
+        "date": "11/10/2017",
+        "author": "user"
+      }
+    ],
+    "nodes": [
+      {
+        "id": 2,
+        "parent_id": 1,
+        "props": [
+          {
+            "key": "name",
+            "label": "name",
+            "value": "ID80-NG-04-CS-GEN"
+          },
+          {
+            "key": "system",
+            "label": "system",
+            "value": "system B"
+          },
+          {
+            "key": "site",
+            "label": "site",
+            "value": "site 1"
+          },
+          {
+            "key": "level",
+            "label": "level",
+            "value": "2"
+          },
+          {
+            "key": "tag_type",
+            "label": "tag type",
+            "value": "tag type"
+          },
+          {
+            "key": "description",
+            "label": "description",
+            "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+          },
+          {
+            "key": "floc",
+            "label": "functional location",
+            "value": "ID80-020-BP-OLS-PEI-XII-11"
+          },
+          {
+            "key": "pm_plant",
+            "label": "PM Plant",
+            "value": "ID01"
+          },
+          {
+            "key": "status",
+            "label": "system status",
+            "value": "CRTE"
+          },
+          {
+            "key": "planner_group",
+            "label": "planner group",
+            "value": "IMP"
+          },
+          {
+            "key": "short_desc",
+            "label": "short description",
+            "value": "PTLM"
+          },
+          {
+            "key": "eq_type",
+            "label": "equipment type",
+            "value": "transmitter"
+          },
+          {
+            "key": "discipline",
+            "label": "discipline",
+            "value": "instrument"
+          },
+          {
+            "key": "criticality",
+            "label": "criticality",
+            "value": "low"
+          },
+          {
+            "key": "craft",
+            "label": "craft",
+            "value": "a craft"
+          },
+          {
+            "key": "parent_craft",
+            "label": "parent craft",
+            "value": "a parent craft"
+          },
+          {
+            "key": "pid",
+            "label": "piping and instrumentation diagram",
+            "value": "http://via.placeholder.com/350x150"
+          }
+        ],
+        "flags": [],
+        "nodes": [
+          {
+            "id": 31,
+            "parent_id": 2,
+            "props": [
+              {
+                "key": "name",
+                "label": "name",
+                "value": "ID80-021-AT-1711"
+              },
+              {
+                "key": "system",
+                "label": "system",
+                "value": "system A"
+              },
+              {
+                "key": "site",
+                "label": "site",
+                "value": "site 1"
+              },
+              {
+                "key": "level",
+                "label": "level",
+                "value": "3"
+              },
+              {
+                "key": "tag_type",
+                "label": "tag type",
+                "value": "tag type"
+              },
+              {
+                "key": "description",
+                "label": "description",
+                "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+              },
+              {
+                "key": "floc",
+                "label": "functional location",
+                "value": "ID80-020-BP-OLS-PEI-XII-11"
+              },
+              {
+                "key": "pm_plant",
+                "label": "PM Plant",
+                "value": "ID01"
+              },
+              {
+                "key": "status",
+                "label": "system status",
+                "value": "CRTE"
+              },
+              {
+                "key": "planner_group",
+                "label": "planner group",
+                "value": "IMP"
+              },
+              {
+                "key": "short_desc",
+                "label": "short description",
+                "value": "PTLM"
+              },
+              {
+                "key": "eq_type",
+                "label": "equipment type",
+                "value": "transmitter"
+              },
+              {
+                "key": "discipline",
+                "label": "discipline",
+                "value": "instrument"
+              },
+              {
+                "key": "criticality",
+                "label": "criticality",
+                "value": "low"
+              },
+              {
+                "key": "craft",
+                "label": "craft",
+                "value": "a craft"
+              },
+              {
+                "key": "parent_craft",
+                "label": "parent craft",
+                "value": "supercraft"
+              },
+              {
+                "key": "pid",
+                "label": "piping and instrumentation diagram",
+                "value": "http://via.placeholder.com/350x150"
+              }
+            ],
+            "flags": [],
+            "nodes": [{
+              "parent_id": 31,
+              "id": 32,
+              "props": [
+                {
+                  "key": "name",
+                  "label": "name",
+                  "value": "ID80-021-AT-1712"
+                },
+                {
+                  "key": "system",
+                  "label": "system",
+                  "value": "system C"
+                },
+                {
+                  "key": "site",
+                  "label": "site",
+                  "value": "site 1"
+                },
+                {
+                  "key": "level",
+                  "label": "level",
+                  "value": "4"
+                },
+                {
+                  "key": "tag_type",
+                  "label": "tag type",
+                  "value": "tag type"
+                },
+                {
+                  "key": "description",
+                  "label": "description",
+                  "value": "HOLLY GRAIL"
+                },
+                {
+                  "key": "floc",
+                  "label": "functional location",
+                  "value": "ID80-020-BP-OLS-PEI-XII-11"
+                },
+                {
+                  "key": "pm_plant",
+                  "label": "PM Plant",
+                  "value": "ID01"
+                },
+                {
+                  "key": "status",
+                  "label": "system status",
+                  "value": "CRTE"
+                },
+                {
+                  "key": "planner_group",
+                  "label": "planner group",
+                  "value": "IMP"
+                },
+                {
+                  "key": "short_desc",
+                  "label": "short description",
+                  "value": "PTLM"
+                },
+                {
+                  "key": "eq_type",
+                  "label": "equipment type",
+                  "value": "tank"
+                },
+                {
+                  "key": "discipline",
+                  "label": "discipline",
+                  "value": "instrument"
+                },
+                {
+                  "key": "criticality",
+                  "label": "criticality",
+                  "value": "low"
+                },
+                {
+                  "key": "craft",
+                  "label": "craft",
+                  "value": "a craft"
+                },
+                {
+                  "key": "parent_craft",
+                  "label": "parent craft",
+                  "value": "supercraft"
+                },
+                {
+                  "key": "pid",
+                  "label": "piping and instrumentation diagram",
+                  "value": "http://via.placeholder.com/350x150"
+                }
+              ],
+              "flags": [],
+              "nodes": [{
+                "id": 33,
+                "parent_id": 3.2,
+                "props": [
+                  {
+                    "key": "name",
+                    "label": "name",
+                    "value": "ID80-021-AT-1713"
+                  },
+                  {
+                    "key": "system",
+                    "label": "system",
+                    "value": "system A"
+                  },
+                  {
+                    "key": "site",
+                    "label": "site",
+                    "value": "site 1"
+                  },
+                  {
+                    "key": "level",
+                    "label": "level",
+                    "value": "5"
+                  },
+                  {
+                    "key": "tag_type",
+                    "label": "tag type",
+                    "value": "tag type"
+                  },
+                  {
+                    "key": "description",
+                    "label": "description",
+                    "value": "ANOTHER GRAIL"
+                  },
+                  {
+                    "key": "floc",
+                    "label": "functional location",
+                    "value": "ID80-020-BP-OLS-PEI-XII-11"
+                  },
+                  {
+                    "key": "pm_plant",
+                    "label": "PM Plant",
+                    "value": "ID01"
+                  },
+                  {
+                    "key": "status",
+                    "label": "system status",
+                    "value": "CRTE"
+                  },
+                  {
+                    "key": "planner_group",
+                    "label": "planner group",
+                    "value": "IMP"
+                  },
+                  {
+                    "key": "short_desc",
+                    "label": "short description",
+                    "value": "PTLM"
+                  },
+                  {
+                    "key": "eq_type",
+                    "label": "equipment type",
+                    "value": "tank"
+                  },
+                  {
+                    "key": "discipline",
+                    "label": "discipline",
+                    "value": "instrument"
+                  },
+                  {
+                    "key": "criticality",
+                    "label": "criticality",
+                    "value": "low"
+                  },
+                  {
+                    "key": "craft",
+                    "label": "craft",
+                    "value": "a craft"
+                  },
+                  {
+                    "key": "parent_craft",
+                    "label": "parent craft",
+                    "value": "supercraft"
+                  },
+                  {
+                    "key": "pid",
+                    "label": "piping and instrumentation diagram",
+                    "value": "http://via.placeholder.com/350x150"
+                  }
+                ],
+                "flags": [],
+                "nodes": []
+              }]
+            }]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "parent_id": 1,
+        "props": [
+          {
+            "key": "name",
+            "label": "name",
+            "value": "ID80-021-AT-1716"
+          },
+          {
+            "key": "system",
+            "label": "system",
+            "value": "system A"
+          },
+          {
+            "key": "site",
+            "label": "site",
+            "value": "site 1"
+          },
+          {
+            "key": "level",
+            "label": "level",
+            "value": "2"
+          },
+          {
+            "key": "tag_type",
+            "label": "tag type",
+            "value": "tag type"
+          },
+          {
+            "key": "description",
+            "label": "description",
+            "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+          },
+          {
+            "key": "floc",
+            "label": "functional location",
+            "value": "ID80-020-BP-OLS-PEI-XII-11"
+          },
+          {
+            "key": "pm_plant",
+            "label": "PM Plant",
+            "value": "ID01"
+          },
+          {
+            "key": "status",
+            "label": "system status",
+            "value": "CRTE"
+          },
+          {
+            "key": "planner_group",
+            "label": "planner group",
+            "value": "IMP"
+          },
+          {
+            "key": "short_desc",
+            "label": "short description",
+            "value": "PTLM"
+          },
+          {
+            "key": "eq_type",
+            "label": "equipment type",
+            "value": "heat exchanger"
+          },
+          {
+            "key": "discipline",
+            "label": "discipline",
+            "value": "instrument"
+          },
+          {
+            "key": "criticality",
+            "label": "criticality",
+            "value": "low"
+          },
+          {
+            "key": "craft",
+            "label": "craft",
+            "value": "a craft"
+          },
+          {
+            "key": "parent_craft",
+            "label": "parent craft",
+            "value": "a parent craft"
+          },
+          {
+            "key": "pid",
+            "label": "piping and instrumentation diagram",
+            "value": "http://via.placeholder.com/350x150"
+          }
+        ],
+        "flags": [],
+        "nodes": [
+          {
+            "id": 5,
+            "parent_id": 4,
+            "props": [
+              {
+                "key": "name",
+                "label": "name",
+                "value": "ID80-021-AT-1719"
+              },
+              {
+                "key": "system",
+                "label": "system",
+                "value": "system A"
+              },
+              {
+                "key": "site",
+                "label": "site",
+                "value": "site 1"
+              },
+              {
+                "key": "level",
+                "label": "level",
+                "value": "3"
+              },
+              {
+                "key": "tag_type",
+                "label": "tag type",
+                "value": "A"
+              },
+              {
+                "key": "description",
+                "label": "description",
+                "value": "PIPELINE"
+              },
+              {
+                "key": "floc",
+                "label": "functional location",
+                "value": "ID80-020-SHELL-SDA-PEI-XII-11"
+              },
+              {
+                "key": "pm_plant",
+                "label": "PM Plant",
+                "value": "ID92"
+              },
+              {
+                "key": "status",
+                "label": "system status",
+                "value": "FDS"
+              },
+              {
+                "key": "planner_group",
+                "label": "planner group",
+                "value": "KAT"
+              },
+              {
+                "key": "short_desc",
+                "label": "short description",
+                "value": "PPL"
+              },
+              {
+                "key": "eq_type",
+                "label": "equipment type",
+                "value": "heat exchanger"
+              },
+              {
+                "key": "discipline",
+                "label": "discipline",
+                "value": "mechanical"
+              },
+              {
+                "key": "criticality",
+                "label": "criticality",
+                "value": "medium"
+              },
+              {
+                "key": "craft",
+                "label": "craft",
+                "value": "a craft"
+              },
+              {
+                "key": "parent_craft",
+                "label": "parent craft",
+                "value": "a parent craft"
+              },
+              {
+                "key": "pid",
+                "label": "piping and instrumentation diagram",
+                "value": "http://via.placeholder.com/350x150"
+              }
+            ],
+            "flags": [],
+            "nodes": [
+              {
+                "id": 6,
+                "parent_id": 5,
+                "props": [
+                  {
+                    "key": "name",
+                    "label": "name",
+                    "value": "ID80-AM-01-CS-TR1"
+                  },
+                  {
+                    "key": "system",
+                    "label": "system",
+                    "value": "system C"
+                  },
+                  {
+                    "key": "site",
+                    "label": "site",
+                    "value": "site 1"
+                  },
+                  {
+                    "key": "level",
+                    "label": "level",
+                    "value": "4"
+                  },
+                  {
+                    "key": "tag_type",
+                    "label": "tag type",
+                    "value": "tag type"
+                  },
+                  {
+                    "key": "description",
+                    "label": "description",
+                    "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+                  },
+                  {
+                    "key": "floc",
+                    "label": "functional location",
+                    "value": "ID80-020-BP-OLS-PEI-XII-11"
+                  },
+                  {
+                    "key": "pm_plant",
+                    "label": "PM Plant",
+                    "value": "ID01"
+                  },
+                  {
+                    "key": "status",
+                    "label": "system status",
+                    "value": "CRTE"
+                  },
+                  {
+                    "key": "planner_group",
+                    "label": "planner group",
+                    "value": "IMP"
+                  },
+                  {
+                    "key": "short_desc",
+                    "label": "short description",
+                    "value": "PTLM"
+                  },
+                  {
+                    "key": "eq_type",
+                    "label": "equipment type",
+                    "value": "pipe"
+                  },
+                  {
+                    "key": "discipline",
+                    "label": "discipline",
+                    "value": "instrument"
+                  },
+                  {
+                    "key": "criticality",
+                    "label": "criticality",
+                    "value": "low"
+                  },
+                  {
+                    "key": "craft",
+                    "label": "craft",
+                    "value": "a craft"
+                  },
+                  {
+                    "key": "parent_craft",
+                    "label": "parent craft",
+                    "value": "a parent craft"
+                  },
+                  {
+                    "key": "pid",
+                    "label": "piping and instrumentation diagram",
+                    "value": "http://via.placeholder.com/350x150"
+                  }
+                ],
+                "flags": [],
+                "nodes": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "parent_id": 4,
+            "props": [
+              {
+                "key": "name",
+                "label": "name",
+                "value": "ID80-AM-06-CS-TR1"
+              },
+              {
+                "key": "system",
+                "label": "system",
+                "value": "system A"
+              },
+              {
+                "key": "site",
+                "label": "site",
+                "value": "site 1"
+              },
+              {
+                "key": "level",
+                "label": "level",
+                "value": "3"
+              },
+              {
+                "key": "tag_type",
+                "label": "tag type",
+                "value": "tag type"
+              },
+              {
+                "key": "description",
+                "label": "description",
+                "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+              },
+              {
+                "key": "floc",
+                "label": "functional location",
+                "value": "ID80-020-BP-OLS-PEI-XII-11"
+              },
+              {
+                "key": "pm_plant",
+                "label": "PM Plant",
+                "value": "ID01"
+              },
+              {
+                "key": "status",
+                "label": "system status",
+                "value": "CRTE"
+              },
+              {
+                "key": "planner_group",
+                "label": "planner group",
+                "value": "IMP"
+              },
+              {
+                "key": "short_desc",
+                "label": "short description",
+                "value": "PTLM"
+              },
+              {
+                "key": "eq_type",
+                "label": "equipment type",
+                "value": "pipe"
+              },
+              {
+                "key": "discipline",
+                "label": "discipline",
+                "value": "instrument"
+              },
+              {
+                "key": "criticality",
+                "label": "criticality",
+                "value": "low"
+              },
+              {
+                "key": "craft",
+                "label": "craft",
+                "value": "a craft"
+              },
+              {
+                "key": "parent_craft",
+                "label": "parent craft",
+                "value": "a parent craft"
+              },
+              {
+                "key": "pid",
+                "label": "piping and instrumentation diagram",
+                "value": "http://via.placeholder.com/350x150"
+              }
+            ],
+            "flags": [],
+            "nodes": [
+              {
+                "id": 8,
+                "parent_id": 7,
+                "props": [
+                  {
+                    "key": "name",
+                    "label": "name",
+                    "value": "ID80-AM-02-CS-TR1"
+                  },
+                  {
+                    "key": "system",
+                    "label": "system",
+                    "value": "system C"
+                  },
+                  {
+                    "key": "site",
+                    "label": "site",
+                    "value": "site 1"
+                  },
+                  {
+                    "key": "level",
+                    "label": "level",
+                    "value": "4"
+                  },
+                  {
+                    "key": "tag_type",
+                    "label": "tag type",
+                    "value": "tag type"
+                  },
+                  {
+                    "key": "description",
+                    "label": "description",
+                    "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+                  },
+                  {
+                    "key": "floc",
+                    "label": "functional location",
+                    "value": "ID80-020-BP-OLS-PEI-XII-11"
+                  },
+                  {
+                    "key": "pm_plant",
+                    "label": "PM Plant",
+                    "value": "ID01"
+                  },
+                  {
+                    "key": "status",
+                    "label": "system status",
+                    "value": "CRTE"
+                  },
+                  {
+                    "key": "planner_group",
+                    "label": "planner group",
+                    "value": "IMP"
+                  },
+                  {
+                    "key": "short_desc",
+                    "label": "short description",
+                    "value": "PTLM"
+                  },
+                  {
+                    "key": "eq_type",
+                    "label": "equipment type",
+                    "value": "pipe"
+                  },
+                  {
+                    "key": "discipline",
+                    "label": "discipline",
+                    "value": "instrument"
+                  },
+                  {
+                    "key": "criticality",
+                    "label": "criticality",
+                    "value": "low"
+                  },
+                  {
+                    "key": "craft",
+                    "label": "craft",
+                    "value": "a craft"
+                  },
+                  {
+                    "key": "parent_craft",
+                    "label": "parent craft",
+                    "value": "a parent craft"
+                  },
+                  {
+                    "key": "pid",
+                    "label": "piping and instrumentation diagram",
+                    "value": "http://via.placeholder.com/350x150"
+                  }
+                ],
+                "flags": [],
+                "nodes": [
+                  {
+                    "id": 9,
+                    "parent_id": 8,
+                    "props": [
+                      {
+                        "key": "name",
+                        "label": "name",
+                        "value": "ID80-AM-09-CS-TR1"
+                      },
+                      {
+                        "key": "system",
+                        "label": "system",
+                        "value": "system D"
+                      },
+                      {
+                        "key": "site",
+                        "label": "site",
+                        "value": "site 1"
+                      },
+                      {
+                        "key": "level",
+                        "label": "level",
+                        "value": "5"
+                      },
+                      {
+                        "key": "tag_type",
+                        "label": "tag type",
+                        "value": "tag type"
+                      },
+                      {
+                        "key": "description",
+                        "label": "description",
+                        "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+                      },
+                      {
+                        "key": "floc",
+                        "label": "functional location",
+                        "value": "ID80-020-BP-OLS-PEI-XII-11"
+                      },
+                      {
+                        "key": "pm_plant",
+                        "label": "PM Plant",
+                        "value": "ID01"
+                      },
+                      {
+                        "key": "status",
+                        "label": "system status",
+                        "value": "CRTE"
+                      },
+                      {
+                        "key": "planner_group",
+                        "label": "planner group",
+                        "value": "IMP"
+                      },
+                      {
+                        "key": "short_desc",
+                        "label": "short description",
+                        "value": "PTLM"
+                      },
+                      {
+                        "key": "eq_type",
+                        "label": "equipment type",
+                        "value": "pipe"
+                      },
+                      {
+                        "key": "discipline",
+                        "label": "discipline",
+                        "value": "instrument"
+                      },
+                      {
+                        "key": "criticality",
+                        "label": "criticality",
+                        "value": "low"
+                      },
+                      {
+                        "key": "craft",
+                        "label": "craft",
+                        "value": "a craft"
+                      },
+                      {
+                        "key": "parent_craft",
+                        "label": "parent craft",
+                        "value": "a parent craft"
+                      },
+                      {
+                        "key": "pid",
+                        "label": "piping and instrumentation diagram",
+                        "value": "http://via.placeholder.com/350x150"
+                      }
+                    ],
+                    "flags": [],
+                    "nodes": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "parent_id": null,
+    "props": [
+      {
+        "key": "name",
+        "label": "name",
+        "value": "ID80-AM-03-CS-TR1"
+      },
+      {
+        "key": "system",
+        "label": "system",
+        "value": "system B"
+      },
+      {
+        "key": "site",
+        "label": "site",
+        "value": "site 2"
+      },
+      {
+        "key": "level",
+        "label": "level",
+        "value": "1"
+      },
+      {
+        "key": "tag_type",
+        "label": "tag type",
+        "value": "tag type"
+      },
+      {
+        "key": "description",
+        "label": "description",
+        "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+      },
+      {
+        "key": "floc",
+        "label": "functional location",
+        "value": "ID80-020-BP-OLS-PEI-XII-11"
+      },
+      {
+        "key": "pm_plant",
+        "label": "PM Plant",
+        "value": "ID02"
+      },
+      {
+        "key": "status",
+        "label": "system status",
+        "value": "CRTE"
+      },
+      {
+        "key": "planner_group",
+        "label": "planner group",
+        "value": "IMP"
+      },
+      {
+        "key": "short_desc",
+        "label": "short description",
+        "value": "PTLM"
+      },
+      {
+        "key": "eq_type",
+        "label": "equipment type",
+        "value": "motor"
+      },
+      {
+        "key": "discipline",
+        "label": "discipline",
+        "value": "instrument"
+      },
+      {
+        "key": "criticality",
+        "label": "criticality",
+        "value": "low"
+      },
+      {
+        "key": "craft",
+        "label": "craft",
+        "value": "a craft"
+      },
+      {
+        "key": "parent_craft",
+        "label": "parent craft",
+        "value": "a parent craft"
+      },
+      {
+        "key": "pid",
+        "label": "piping and instrumentation diagram",
+        "value": "http://via.placeholder.com/350x150"
+      }
+    ],
+    "flags": [],
+    "nodes": [
+      {
+        "id": 11,
+        "parent_id": 10,
+        "props": [
+          {
+            "key": "name",
+            "label": "name",
+            "value": "ID80-AM-07-SS-TR1"
+          },
+          {
+            "key": "system",
+            "label": "system",
+            "value": "system B"
+          },
+          {
+            "key": "site",
+            "label": "site",
+            "value": "site 2"
+          },
+          {
+            "key": "level",
+            "label": "level",
+            "value": "2"
+          },
+          {
+            "key": "tag_type",
+            "label": "tag type",
+            "value": "tag type"
+          },
+          {
+            "key": "description",
+            "label": "description",
+            "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+          },
+          {
+            "key": "floc",
+            "label": "functional location",
+            "value": "ID80-020-BP-OLS-PEI-XII-11"
+          },
+          {
+            "key": "pm_plant",
+            "label": "PM Plant",
+            "value": "ID02"
+          },
+          {
+            "key": "status",
+            "label": "system status",
+            "value": "CRTE"
+          },
+          {
+            "key": "planner_group",
+            "label": "planner group",
+            "value": "IMP"
+          },
+          {
+            "key": "short_desc",
+            "label": "short description",
+            "value": "PTLM"
+          },
+          {
+            "key": "eq_type",
+            "label": "equipment type",
+            "value": "motor"
+          },
+          {
+            "key": "discipline",
+            "label": "discipline",
+            "value": "instrument"
+          },
+          {
+            "key": "criticality",
+            "label": "criticality",
+            "value": "low"
+          },
+          {
+            "key": "craft",
+            "label": "craft",
+            "value": "a craft"
+          },
+          {
+            "key": "parent_craft",
+            "label": "parent craft",
+            "value": "a parent craft"
+          },
+          {
+            "key": "pid",
+            "label": "piping and instrumentation diagram",
+            "value": "http://via.placeholder.com/350x150"
+          }
+        ],
+        "flags": [],
+        "nodes": []
+      },
+      {
+        "id": 12,
+        "parent_id": 10,
+        "props": [
+          {
+            "key": "name",
+            "label": "name",
+            "value": "ID80-AM-05-CS-TR1"
+          },
+          {
+            "key": "system",
+            "label": "system",
+            "value": "system B"
+          },
+          {
+            "key": "site",
+            "label": "site",
+            "value": "site 2"
+          },
+          {
+            "key": "level",
+            "label": "level",
+            "value": "2"
+          },
+          {
+            "key": "tag_type",
+            "label": "tag type",
+            "value": "tag type"
+          },
+          {
+            "key": "description",
+            "label": "description",
+            "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+          },
+          {
+            "key": "floc",
+            "label": "functional location",
+            "value": "ID80-020-BP-OLS-PEI-XII-11"
+          },
+          {
+            "key": "pm_plant",
+            "label": "PM Plant",
+            "value": "ID02"
+          },
+          {
+            "key": "status",
+            "label": "system status",
+            "value": "CRTE"
+          },
+          {
+            "key": "planner_group",
+            "label": "planner group",
+            "value": "IMP"
+          },
+          {
+            "key": "short_desc",
+            "label": "short description",
+            "value": "PTLM"
+          },
+          {
+            "key": "eq_type",
+            "label": "equipment type",
+            "value": "motor"
+          },
+          {
+            "key": "discipline",
+            "label": "discipline",
+            "value": "instrument"
+          },
+          {
+            "key": "criticality",
+            "label": "criticality",
+            "value": "low"
+          },
+          {
+            "key": "craft",
+            "label": "craft",
+            "value": "a craft"
+          },
+          {
+            "key": "parent_craft",
+            "label": "parent craft",
+            "value": "a parent craft"
+          },
+          {
+            "key": "pid",
+            "label": "piping and instrumentation diagram",
+            "value": "http://via.placeholder.com/350x150"
+          }
+        ],
+        "flags": [],
+        "nodes": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "parent_id": null,
+    "props": [
+      {
+        "key": "name",
+        "label": "name",
+        "value": "ID80-021-GN-1701-26IN-9CP0N-NI"
+      },
+      {
+        "key": "system",
+        "label": "system",
+        "value": "system C"
+      },
+      {
+        "key": "site",
+        "label": "site",
+        "value": "site 3"
+      },
+      {
+        "key": "level",
+        "label": "level",
+        "value": "1"
+      },
+      {
+        "key": "tag_type",
+        "label": "tag type",
+        "value": "tag type"
+      },
+      {
+        "key": "description",
+        "label": "description",
+        "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+      },
+      {
+        "key": "floc",
+        "label": "functional location",
+        "value": "ID80-020-BP-OLS-PEI-XII-11"
+      },
+      {
+        "key": "pm_plant",
+        "label": "PM Plant",
+        "value": "ID03"
+      },
+      {
+        "key": "status",
+        "label": "system status",
+        "value": "CRTE"
+      },
+      {
+        "key": "planner_group",
+        "label": "planner group",
+        "value": "IMP"
+      },
+      {
+        "key": "short_desc",
+        "label": "short description",
+        "value": "PTLM"
+      },
+      {
+        "key": "eq_type",
+        "label": "equipment type",
+        "value": "heat exchanger"
+      },
+      {
+        "key": "discipline",
+        "label": "discipline",
+        "value": "instrument"
+      },
+      {
+        "key": "criticality",
+        "label": "criticality",
+        "value": "low"
+      },
+      {
+        "key": "craft",
+        "label": "craft",
+        "value": "a craft"
+      },
+      {
+        "key": "parent_craft",
+        "label": "parent craft",
+        "value": "a parent craft"
+      },
+      {
+        "key": "pid",
+        "label": "piping and instrumentation diagram",
+        "value": "http://via.placeholder.com/350x150"
+      }
+    ],
+    "flags": [],
+    "nodes": [
+      {
+        "id": 14,
+        "parent_id": 13,
+        "props": [
+          {
+            "key": "name",
+            "label": "name",
+            "value": "ID80-021-SN-1702-6IN-1CS1S-HI"
+          },
+          {
+            "key": "system",
+            "label": "system",
+            "value": "system C"
+          },
+          {
+            "key": "site",
+            "label": "site",
+            "value": "site 3"
+          },
+          {
+            "key": "level",
+            "label": "level",
+            "value": "2"
+          },
+          {
+            "key": "tag_type",
+            "label": "tag type",
+            "value": "tag type"
+          },
+          {
+            "key": "description",
+            "label": "description",
+            "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+          },
+          {
+            "key": "floc",
+            "label": "functional location",
+            "value": "ID80-020-BP-OLS-PEI-XII-11"
+          },
+          {
+            "key": "pm_plant",
+            "label": "PM Plant",
+            "value": "ID03"
+          },
+          {
+            "key": "status",
+            "label": "system status",
+            "value": "CRTE"
+          },
+          {
+            "key": "planner_group",
+            "label": "planner group",
+            "value": "IMP"
+          },
+          {
+            "key": "short_desc",
+            "label": "short description",
+            "value": "PTLM"
+          },
+          {
+            "key": "eq_type",
+            "label": "equipment type",
+            "value": "valve"
+          },
+          {
+            "key": "discipline",
+            "label": "discipline",
+            "value": "instrument"
+          },
+          {
+            "key": "criticality",
+            "label": "criticality",
+            "value": "low"
+          },
+          {
+            "key": "craft",
+            "label": "craft",
+            "value": "a craft"
+          },
+          {
+            "key": "parent_craft",
+            "label": "parent craft",
+            "value": "a parent craft"
+          },
+          {
+            "key": "pid",
+            "label": "piping and instrumentation diagram",
+            "value": "http://via.placeholder.com/350x150"
+          }
+        ],
+        "flags": [],
+        "nodes":  [
+          {
+            "id": 15,
+            "parent_id": 14,
+            "props": [
+              {
+                "key": "name",
+                "label": "name",
+                "value": "ID80-021-SN-1702-6IN-1CS1S-11"
+              },
+              {
+                "key": "system",
+                "label": "system",
+                "value": "system D"
+              },
+              {
+                "key": "site",
+                "label": "site",
+                "value": "site 3"
+              },
+              {
+                "key": "level",
+                "label": "level",
+                "value": "3"
+              },
+              {
+                "key": "tag_type",
+                "label": "tag type",
+                "value": "tag type"
+              },
+              {
+                "key": "description",
+                "label": "description",
+                "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+              },
+              {
+                "key": "floc",
+                "label": "functional location",
+                "value": "ID80-020-BP-OLS-PEI-XII-11"
+              },
+              {
+                "key": "pm_plant",
+                "label": "PM Plant",
+                "value": "ID03"
+              },
+              {
+                "key": "status",
+                "label": "system status",
+                "value": "CRTE"
+              },
+              {
+                "key": "planner_group",
+                "label": "planner group",
+                "value": "IMP"
+              },
+              {
+                "key": "short_desc",
+                "label": "short description",
+                "value": "PTLM"
+              },
+              {
+                "key": "eq_type",
+                "label": "equipment type",
+                "value": "valve"
+              },
+              {
+                "key": "discipline",
+                "label": "discipline",
+                "value": "instrument"
+              },
+              {
+                "key": "criticality",
+                "label": "criticality",
+                "value": "low"
+              },
+              {
+                "key": "craft",
+                "label": "craft",
+                "value": "a craft"
+              },
+              {
+                "key": "parent_craft",
+                "label": "parent craft",
+                "value": "a parent craft"
+              },
+              {
+                "key": "pid",
+                "label": "piping and instrumentation diagram",
+                "value": "http://via.placeholder.com/350x150"
+              }
+            ],
+            "flags": [],
+            "nodes":  [
+              {
+                "id": 16,
+                "parent_id": 15,
+                "props": [
+                  {
+                    "key": "name",
+                    "label": "name",
+                    "value": "ID80-021-SN-1702-6IN-1CS1S-12"
+                  },
+                  {
+                    "key": "system",
+                    "label": "system",
+                    "value": "system B"
+                  },
+                  {
+                    "key": "site",
+                    "label": "site",
+                    "value": "site 3"
+                  },
+                  {
+                    "key": "level",
+                    "label": "level",
+                    "value": "4"
+                  },
+                  {
+                    "key": "tag_type",
+                    "label": "tag type",
+                    "value": "tag type"
+                  },
+                  {
+                    "key": "description",
+                    "label": "description",
+                    "value": "PIPELINE, TOPSIDE, LNG MANUFACTURING"
+                  },
+                  {
+                    "key": "floc",
+                    "label": "functional location",
+                    "value": "ID80-020-BP-OLS-PEI-XII-11"
+                  },
+                  {
+                    "key": "pm_plant",
+                    "label": "PM Plant",
+                    "value": "ID03"
+                  },
+                  {
+                    "key": "status",
+                    "label": "system status",
+                    "value": "CRTE"
+                  },
+                  {
+                    "key": "planner_group",
+                    "label": "planner group",
+                    "value": "IMP"
+                  },
+                  {
+                    "key": "short_desc",
+                    "label": "short description",
+                    "value": "PTLM"
+                  },
+                  {
+                    "key": "eq_type",
+                    "label": "equipment type",
+                    "value": "valve"
+                  },
+                  {
+                    "key": "discipline",
+                    "label": "discipline",
+                    "value": "instrument"
+                  },
+                  {
+                    "key": "criticality",
+                    "label": "criticality",
+                    "value": "low"
+                  },
+                  {
+                    "key": "craft",
+                    "label": "craft",
+                    "value": "a craft"
+                  },
+                  {
+                    "key": "parent_craft",
+                    "label": "parent craft",
+                    "value": "a parent craft"
+                  },
+                  {
+                    "key": "pid",
+                    "label": "piping and instrumentation diagram",
+                    "value": "http://via.placeholder.com/350x150"
+                  }
+                ],
+                "flags": [],
+                "nodes": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
