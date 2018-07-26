@@ -29,7 +29,7 @@ user[
       "surname": "Hoy"
     },
     "email": "bobby.hoy@addenergy.com",
-    "role": "user",
+    "role": "editor",
     "profile_pic_url": "images/landing/placeholder-person.png"
   },
   {
@@ -40,7 +40,7 @@ user[
       "surname": "Levinsson"
     },
     "email": "will.levinsson@addenergy.com",
-    "role": "user",
+    "role": "editor",
     "profile_pic_url": "images/landing/placeholder-person.png"
   },
   {
