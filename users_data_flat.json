@@ -1,4 +1,4 @@
-[
+user[
   {
     "id": "1",
     "name": "John Doe",
@@ -29,7 +29,7 @@
       "surname": "Hoy"
     },
     "email": "bobby.hoy@addenergy.com",
-    "role": "editor",
+    "role": "user",
     "profile_pic_url": "images/landing/placeholder-person.png"
   },
   {
@@ -40,7 +40,7 @@
       "surname": "Levinsson"
     },
     "email": "will.levinsson@addenergy.com",
-    "role": "editor",
+    "role": "user",
     "profile_pic_url": "images/landing/placeholder-person.png"
   },
   {
