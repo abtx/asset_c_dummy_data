@@ -1,33 +1,27 @@
-
+// permissions: super, edit, manageUsers, managePermissions, view
 [
   {
     "id": "1",
     "name": "admin",
-    "description": "Super user, can manage other users and permissions.",
-    "permissions": ["manage", "approve", "edit", "view", "comment"]
+    "description": "Allowed to view and edit Asset Register data, manage Users and Permissions",
+    "permissions": ["super", "edit", "manageUsers", "managePermissions", "view"]
   },
   {
     "id": "2",
     "name": "manager",
-    "description": "Allowed to suggest, make changes and QA and approve actions",
-    "permissions": ["approve", "edit", "view", "comment"]
+    "description": "Allowed to view and edit Asset Register data", 
+    "permissions": ["edit", "manageUsers", "managePermissions", "view"]
   },
   {
     "id": "3",
-    "name": "editor",
-    "description": "Allowed to suggest, make changes and QA",
-    "permissions": ["edit", "view", "comment"]
+    "name": "user",
+    "description": "edit", "view",
+    "permissions": ["edit", "view"]
   },
   {
     "id": "4",
-    "name": "commentator",
-    "description": "Can view the data, but cannot make any changes other than reporting/flagging and commenting.",
-    "permissions": ["view", "comment"]
-  },
-  {
-    "id": "5",
     "name": "viewer",
-    "description": "Can only view the data, and is unable to report/flag or comment.",
+    "description": "Can view the data, but cannot make any changes other than reporting/flagging and commenting.",
     "permissions": ["view"]
   }
 ]
