@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "admin",
+    "description": "Super user",
+    "permissions": ["super", "edit", "manageUsers", "managePermissions", "view"]
+  },
+  {
+    "id": "2",
+    "name": "manager",
+    "description": "Allowed to view and edit Asset Register data, manage Users and Permissions", 
+    "permissions": ["edit", "manageUsers", "managePermissions", "view"]
+  },
+  {
+    "id": "3",
+    "name": "user",
+    "description": "Allowed to view and edit Asset Register data",
+    "permissions": ["edit", "view"]
+  },
+  {
+    "id": "4",
+    "name": "viewer",
+    "description": "View access only",
+    "permissions": ["view"]
+  }
+]
