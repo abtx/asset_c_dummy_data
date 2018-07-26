@@ -3,25 +3,25 @@
   {
     "id": "1",
     "name": "admin",
-    "description": "Allowed to view and edit Asset Register data, manage Users and Permissions",
+    "description": "Super user",
     "permissions": ["super", "edit", "manageUsers", "managePermissions", "view"]
   },
   {
     "id": "2",
     "name": "manager",
-    "description": "Allowed to view and edit Asset Register data", 
+    "description": "Allowed to view and edit Asset Register data, manage Users and Permissions", 
     "permissions": ["edit", "manageUsers", "managePermissions", "view"]
   },
   {
     "id": "3",
     "name": "user",
-    "description": "edit", "view",
+    "description": "Allowed to view and edit Asset Register data",
     "permissions": ["edit", "view"]
   },
   {
     "id": "4",
     "name": "viewer",
-    "description": "Can view the data, but cannot make any changes other than reporting/flagging and commenting.",
+    "description": "View access only",
     "permissions": ["view"]
   }
 ]
