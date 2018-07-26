@@ -13,7 +13,7 @@
   },
   {
     "id": "3",
-    "name": "user",
+    "name": "editor",
     "description": "Allowed to view and edit Asset Register data",
     "permissions": ["edit", "view"]
   },
