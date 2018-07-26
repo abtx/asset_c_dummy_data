@@ -20,7 +20,7 @@
   {
     "id": "4",
     "name": "viewer",
-    "description": "View access only",
+    "description": "Every logged in user",
     "permissions": ["view"]
   }
 ]
