@@ -20,14 +20,14 @@
         "id": "3",
         "name": "Bob Hoy",
         "email": "bobby.hoy@addenergy.com",
-        "role": "user",
+        "role": "editor",
         "profile_pic_url": "images/landing/placeholder-person.png",
         "manages": [
           {
             "id": "4",
             "name": "Will Levinsson",
             "email": "will.levinsson@addenergy.com",
-            "role": "user",
+            "role": "editor",
             "profile_pic_url": "images/landing/placeholder-person.png",
             "manages": [
 
