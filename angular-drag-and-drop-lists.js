@@ -78,7 +78,6 @@
   dndLists.directive('dndDraggable', ['$parse', '$timeout', function($parse, $timeout) {
     return function(scope, element, attr) {
 
-      console.log('init!');
       // Set the HTML5 draggable attribute on the element.
       element.attr("draggable", "true");
 
