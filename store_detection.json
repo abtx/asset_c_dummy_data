@@ -1,0 +1,51 @@
+[
+  {
+    "rfidtag": "0",
+    "assetID": "000",
+    "assetName": "Asset 0" ,
+    "location": "Site A",
+    "datetime": "2018-12-11T10:24:00",
+    "direction": "in"
+  },
+  {
+    "rfidtag": "1",
+    "assetID": "001",
+    "assetName": "Asset 1" ,
+    "location": "Site A",
+    "datetime": "2018-12-11T08:24:00",
+    "direction": "out"
+  },
+  {
+    "rfidtag": "2",
+    "assetID": "002",
+    "assetName": "Asset 2" ,
+    "location": "Site A",
+    "datetime": "2018-12-10T14:24:00",
+    "direction": "in"
+  },
+  {
+    "rfidtag": "3",
+    "assetID": "003",
+    "assetName": "Asset 3" ,
+    "location": "Site A",
+    "datetime": "2018-12-10T18:24:00",
+    "direction": "in"
+  },
+  {
+    "rfidtag": "4",
+    "assetID": "004",
+    "assetName": "Asset 4" ,
+    "location": "Site A",
+    "datetime": "2018-12-10T09:24:00",
+    "direction": "in"
+  },
+  {
+    "rfidtag": "5",
+    "assetID": "005",
+    "assetName": "Asset 5" ,
+    "location": "Site A",
+    "datetime": "2018-12-09T12:24:00",
+    "direction": "out"
+  }
+
+]
